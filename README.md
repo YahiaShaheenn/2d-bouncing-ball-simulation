@@ -17,7 +17,7 @@ The simulation is implemented using kinematic equations for horizontal and verti
 
 ---
 
-## 🚀 Features
+# Features
 
 *  Realistic bouncing ball motion
 *  Gradual energy loss after each bounce
@@ -72,6 +72,7 @@ vᵧ ≈ 0 → ball stops
 | `↓` | Decrease vertical velocity |
 | `PgUp` | Increase gravitational acceleration |
 | `PgDn` | Decrease gravitational acceleration |
+| `Space` | Pause/Play simulation |
 | `R` | Reset simulation |
 | `ESC` | Exit program |
 
@@ -112,7 +113,7 @@ vᵧ ≈ 0 → ball stops
 
 ---
 
-## 👨‍💻 Author
+# Author
 Yahia Ahmed Shaheen
 Biomedical Engineering Student
 Cairo University
